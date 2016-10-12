@@ -20,7 +20,7 @@ CLS
 ```
 for Unix
 ```
-cmd+l or cmd+r (for iTerm2)
+clear or cmd+l or cmd+r (for iTerm2)
 ```
 
 4) run the script
