@@ -9,7 +9,7 @@ git clone https://github.com/dasqueel/resume.git
 ```
 cd resume
 ```
-3) optimally set your terminal window to full screen
+3) set your terminal window to full screen
 
 4) run the script
 ```
