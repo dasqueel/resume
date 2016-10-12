@@ -11,6 +11,7 @@ cd resume
 ```
 3) set your terminal window to full screen
 4) clear your command or terminal screen
+
 for Windows
 ```
 CLS
