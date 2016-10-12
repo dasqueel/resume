@@ -10,6 +10,15 @@ git clone https://github.com/dasqueel/resume.git
 cd resume
 ```
 3) set your terminal window to full screen
+4) clear your command or terminal screen
+for Windows
+```
+CLS
+```
+for Unix
+```
+cmd+l or cmd+r (for iTerm2)
+```
 
 4) run the script
 ```
