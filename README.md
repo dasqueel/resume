@@ -18,7 +18,7 @@ for Windows
 ```
 CLS
 ```
-for Unix
+for Unix and Mac
 ```
 clear or cmd+l or cmd+r (for iTerm2)
 ```
